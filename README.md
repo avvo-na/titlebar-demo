@@ -1,7 +1,4 @@
-# Tauri + React + Typescript
+# Tauri + React + Typescript + Tailwind Titlebar Demo
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This is apart of a guide for the Tauri official documentation.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
